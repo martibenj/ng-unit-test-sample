@@ -1,2 +1,2 @@
-# ng-unit-test-sample
-Simple Angular project to demonstrate the use of Unit test
+# ng-unit-testing-example
+Simple example to show how Unit Testing works in NG

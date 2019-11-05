@@ -1,0 +1,17 @@
+:host {
+  div {
+    display: flex;
+    flex-direction: column;
+    margin: 6px;
+  }
+
+  span {
+    font-size: 1em;
+    font-weight: 500;
+  }
+
+  button {
+    margin-top: 6px;
+    width: fit-content;
+  }
+}
